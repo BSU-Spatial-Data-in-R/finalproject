@@ -28,7 +28,7 @@ The final project is an opportunity to bring all of the things you've learned in
 
 6. Render the document to html (you should now have at least 3 files in the repository: Readme.md, finalproject-xx.qmd, and finalproject-xx.html). Commit these changes and push them to the repository on GitHub. You should see the files there when you go to github.com.
 
-** Remember to save your data to the folder with your name in our shared [Google Drive](https://drive.google.com/drive/u/0/folders/1ca87_eYhoWtQwX8upiiAiajX39PM_S1X) so that it syncs to the server and all of the pathnames work.**
+**Remember to save your data to the folder with your name in our shared [Google Drive](https://drive.google.com/drive/u/0/folders/1ca87_eYhoWtQwX8upiiAiajX39PM_S1X) so that it syncs to the server and all of the pathnames work.**
 
 ## Requirements
 
