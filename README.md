@@ -1,5 +1,3 @@
-# Final Project
-
 ## Overview
 
 The final project is an opportunity to bring all of the things you've learned in the course into a single reproducible workflow to answer a question of your choosing. Because each of you are in different stages of collecting your own data and because confronting datasets that aren’t yours can help clarify important concepts and design elements, I’m asking you to **develop an analysis of data that isn’t yours**. This final project should help you demonstrate:
@@ -14,22 +12,6 @@ The final project is an opportunity to bring all of the things you've learned in
 
 * The ability to integrate code, analysis, and visualization with text descrbing your approach and discussing your results
 
-## Instructions
-
-1. After you've joined the assignment repository, you should have this file (named Readme.md) inside of a R project named finalproject-xx where xx is your github username (or initials).
-
-2. Once you've verified that you've correctly cloned the assignment repository, create a new Quarto document. Name this file finalproject-xxx.qmd and give it a title (like M Williamson Final Project). Make sure that you select the html output option (Quarto can do a lot of cool things, but the html format is the least-likely to cause you additional headaches). We'll be using Quarto throughout the course so it's worth checking out the other tutorials in the getting started section.
-
-3. Copy the questions below into your document and change the color of their text.
-
-4. Save the changes and make your first commit!
-
-5. Answer the questions making sure save and commit at least 4 more times (having 5 commits is part of the assignment).
-
-6. Render the document to html (you should now have at least 3 files in the repository: Readme.md, finalproject-xx.qmd, and finalproject-xx.html). Commit these changes and push them to the repository on GitHub. You should see the files there when you go to github.com.
-
-**Remember to save your data to the folder with your name in our shared [Google Drive](https://drive.google.com/drive/u/0/folders/1ca87_eYhoWtQwX8upiiAiajX39PM_S1X) so that it syncs to the server and all of the pathnames work.**
-
 ## Requirements
 
 **Datasets.** The ability to manipulate and integrate a variety of data types, resolutions, and formats is a key component of this course. Your analysis should incorporate at least 5 datasets. The ultimate compostion of your database is up to you, but I'd like you to include 1 tabular dataset, 1 vector dataset, and 1 raster dataset. You should choose the other 2 (or more) to give you practice with the data types that are most relevant to your objectives and/or research.
@@ -39,7 +21,6 @@ The final project is an opportunity to bring all of the things you've learned in
 **Visualizations.** You should produce a minimum of 3 visualizations to accompany your analysis. One of these should be a publication quality location map. The others are up to you, but should a) help you tell the story of your analysis and b) help you meet your objectives for the course and your own research. These can be additional maps of results, figures that summarize your data or results in non-spatial ways, or interactive graphics that allow you to explore parts of your analysis. 
 
 **Reporting**
-
 You can generate a 'manuscript' style document (using Quarto) or a flexdashboard (using Quarto and shiny) as the final product. Your report should include:
 
 1. A brief (1-2 paragraphs) description of your question and why you're interested in it.
@@ -50,3 +31,9 @@ You can generate a 'manuscript' style document (using Quarto) or a flexdashboard
 
 4. A Discussion of your results that puts your results in the context of your question, considers alternative analysis strategies and why they may or may not be better than the approach you chose, describes additional data that might be important for your question, and considers the role of extent and resolution in your analysis.
 
+## Assessment
+
+You'll submit a draft of the final report on **December 7**. I'll give you feedback based on your project and on your objectives for the course. You'll then have a chance to address my feedback before turning in your final draft on **December 14**. Your final self-assessment will ask you to reflect on your objectives for the course and evaluate the degree to which your final project demonstrates that you achieved your objectives. *Thus, when you are designing your project, make sure that you have your initial objectives in mind.*
+
+
+**A note on grades**: You will be responsible for assessing how well your assignment demonstrates that you achieved your objectives. I reserve the right to change the grade you've given yourself, but will provide clear justification for why I'm doing that. _Without a completed self-assessment there is no grade for your final project_, so please make sure you complete it.
